@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Session9Assignment4 - Using XML</string>
+     <string name="contextMenu">Context Menu</string>
+    <string name="itemAction1">Action 1</string>
+    <string name="itemAction2">Action 2</string>
+    <string name="itemAction3">Action 3</string>
+</resources>
